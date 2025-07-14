@@ -1,6 +1,6 @@
 {
   "homepage": "https://stevekdrums.github.io/my-quiz-app",
-  "name": "my-quiz-app",
+  "name": "iot-quiz-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
